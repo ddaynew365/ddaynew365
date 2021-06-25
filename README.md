@@ -1,5 +1,4 @@
-<h2 align="left">Hi there, I am YUNSEONG LEE.😄</h1>
-<h4 align="left">지속적인 성장을 하는 개발자가 되고 싶습니다.</h3>
+<h2 align="left">Hi there, I am YUNSEONG.😄</h1>
 <hr>
 <h3 align="center">🛠 기술 스택 🛠</h3>
 <hr>
@@ -16,13 +15,8 @@
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
 
-<hr>
-<h3 align="center">🛠 사용 언어 🛠</h3>
-<hr>
-
-
 <p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ddaynew365&show_icons=true&locale=en&layout=compact" alt="ddaynew365" /></p>
 
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddaynew365&show_icons=true&locale=en" alt="ddaynew365" /></p>
 
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddaynew365&" alt="ddaynew365" /></p>
+

@@ -22,7 +22,7 @@
 <h3 align="center">💾 My History</h3>
 
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddaynew365&show_icons=true&locale=en" alt="ddaynew365" /></p>
-<p align = "center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fddaynew365&count_bg=%233BDBD9&title_bg=%23555555&icon=&icon_color=%23423E3E&title=hits&edge_flat=false"/></a>
+
 
 
 <h3 align="center">🧧 Contact me</h3>

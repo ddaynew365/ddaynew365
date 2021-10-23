@@ -7,12 +7,21 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/JavaScript-1e0e0e?style=flat-square&logo=JavaScript&logoColor=yellow"/></a>&nbsp
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/PostgreSQL-brightgreen?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/PostgreSQL-brightgreen?style=flat-square&logo=PostgreSQL&logoColor=black"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React-skyblue?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=Nodemon&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black"/></a>&nbsp
 </p>
 
 <h3 align="center">🔎 used programming language</h3>

@@ -26,9 +26,9 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp
+<!--   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=black"/></a>&nbsp -->
 </p>
 
 <h3 align="center">🔎 used programming language</h3>
